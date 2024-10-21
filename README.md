@@ -1,4 +1,4 @@
-# Brain-Tumour-Detection:
+
 # Brain Tumour Detection
 
 Brain tumor detection is a crucial aspect of medical diagnosis and treatment planning. 
